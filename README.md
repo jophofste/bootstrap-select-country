@@ -6,6 +6,10 @@
 
 bootstrap-select-country is a jQuery plugin that utilizes Bootstrap's dropdown.js and bootstrap-select to provide country data and styling to standard select elements.
 
+## Build project
+npm install -g rollup
+rollup --config
+
 ## Dependencies
 
 Requires jQuery v1.8.0+, Bootstrap’s dropdown.js component, and Bootstrap's CSS. If you're not already using Bootstrap in your project, a precompiled version of the minimum requirements can be downloaded [here.](http://getbootstrap.com/customize/?id=7830063837006f6fc84f)
